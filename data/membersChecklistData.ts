@@ -34,6 +34,7 @@ export const membersChecklistData: ChecklistData = [
       { id: 'mem_skill_firemaking', label: 'Firemaking' },
       { id: 'mem_skill_woodcutting', label: 'Woodcutting' },
       { id: 'mem_skill_farming', label: 'Farming' },
+      { id: 'mem_skill_sailing', label: 'Sailing' },
     ],
   },
   {
