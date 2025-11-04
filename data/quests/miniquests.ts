@@ -1,0 +1,27 @@
+import type { ChecklistItem } from '../../types';
+
+export const miniquests: ChecklistItem[] = [
+  { id: 'mini_quest_alfred_grimhand_s_barcrawl', label: "Alfred Grimhand's Barcrawl" },
+  { id: 'mini_quest_architectural_alliance', label: 'Architectural Alliance' },
+  { id: 'mini_quest_bear_your_soul', label: 'Bear Your Soul' },
+  { id: 'mini_quest_buckets_of_trailblazer', label: 'Buckets of Trailblazer' },
+  { id: 'mini_quest_curse_of_the_empty_lord', label: 'Curse of the Empty Lord' },
+  { id: 'mini_quest_daddy_s_home', label: "Daddy's Home" },
+  { id: 'mini_quest_enchanted_key', label: 'Enchanted Key' },
+  { id: 'mini_quest_enter_the_abyss', label: 'Enter the Abyss' },
+  { id: 'mini_quest_family_pest', label: 'Family Pest' },
+  { id: 'mini_quest_the_forsaken_tower', label: 'The Forsaken Tower' },
+  { id: 'mini_quest_the_general_s_shadow', label: "The General's Shadow" },
+  { id: 'mini_quest_hopespear_s_will', label: "Hopespear's Will" },
+  { id: 'mini_quest_in_search_of_knowledge', label: 'In Search of Knowledge' },
+  { id: 'mini_quest_into_the_tombs', label: 'Into the Tombs' },
+  { id: 'mini_quest_lair_of_tarn_razorlor', label: 'Lair of Tarn Razorlor' },
+  { id: 'mini_quest_the_mage_arena_i', label: 'The Mage Arena I' },
+  { id: 'mini_quest_the_mage_arena_ii', label: 'The Mage Arena II' },
+  { id: 'mini_quest_the_path_of_glouphrie', label: 'The Path of Glouphrie' },
+  { id: 'mini_quest_relekka_s_great_adventure', label: "Relekka's Great Adventure" },
+  { id: 'mini_quest_rogue_trader', label: 'Rogue Trader' },
+  { id: 'mini_quest_skippy_and_the_mogres', label: 'Skippy and the Mogres' },
+  { id: 'mini_quest_thats_my_larratt', label: "That's My Larratt!" },
+  { id: 'mini_quest_zeahs_oldest_secret', label: "Zeah's Oldest Secret" },
+];

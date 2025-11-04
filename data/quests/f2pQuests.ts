@@ -1,0 +1,25 @@
+import type { ChecklistItem } from '../../types';
+
+export const f2pQuests: ChecklistItem[] = [
+  { id: 'f2p_quest_black_knights_fortress', label: "Black Knights' Fortress" },
+  { id: 'f2p_quest_cooks_assistant', label: "Cook's Assistant" },
+  { id: 'f2p_quest_the_corsair_curse', label: 'The Corsair Curse' },
+  { id: 'f2p_quest_demon_slayer', label: 'Demon Slayer' },
+  { id: 'f2p_quest_dorics_quest', label: "Doric's Quest" },
+  { id: 'f2p_quest_dragon_slayer_i', label: 'Dragon Slayer I' },
+  { id: 'f2p_quest_ernest_the_chicken', label: 'Ernest the Chicken' },
+  { id: 'f2p_quest_goblin_diplomacy', label: 'Goblin Diplomacy' },
+  { id: 'f2p_quest_imp_catcher', label: 'Imp Catcher' },
+  { id: 'f2p_quest_the_knights_sword', label: "The Knight's Sword" },
+  { id: 'f2p_quest_misthalin_mystery', label: 'Misthalin Mystery' },
+  { id: 'f2p_quest_pirates_treasure', label: "Pirate's Treasure" },
+  { id: 'f2p_quest_prince_ali_rescue', label: 'Prince Ali Rescue' },
+  { id: 'f2p_quest_the_restless_ghost', label: 'The Restless Ghost' },
+  { id: 'f2p_quest_romeo_and_juliet', label: 'Romeo & Juliet' },
+  { id: 'f2p_quest_rune_mysteries', label: 'Rune Mysteries' },
+  { id: 'f2p_quest_sheep_shearer', label: 'Sheep Shearer' },
+  { id: 'f2p_quest_shield_of_arrav', label: 'Shield of Arrav' },
+  { id: 'f2p_quest_vampyre_slayer', label: 'Vampyre Slayer' },
+  { id: 'f2p_quest_witchs_potion', label: "Witch's Potion" },
+  { id: 'f2p_quest_x_marks_the_spot', label: 'X Marks the Spot' },
+];
